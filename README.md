@@ -1,2 +1,2 @@
 # harvey
-Harvey looks at the calendar and sees a dynamically updating year.
+Harvey looks at a calendar and sees a dynamically updating year.
